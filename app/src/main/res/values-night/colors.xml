@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainColor">@color/customDarkBlue</color>
+    <color name="darkishMainColor">@color/customDarkBlueDarkish</color>
+    <color name="mainColor2">@color/customLightGreen</color>
+    <color name="darkishMainColor2">@color/customLightGreenDarkish</color>
+    <color name="inverseMainColor">@color/customWhite</color>
+    <color name="inverseDarkishMainColor">@color/customWhiteDarkish</color>
+    <color name="textColor1">@color/customGray</color>
+    <color name="darkishTextColor1">@color/customGrayDarkish</color>
+
+</resources>

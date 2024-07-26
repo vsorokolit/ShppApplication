@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="customWhite">#FAFAFA</color>
+    <color name="customWhiteDarkish">#DADADA</color> <!-- #DADADA #9AFA9A -->
+    <color name="customDarkBlue">#242235</color>
+    <color name="customDarkBlueDarkish">#1F1D30</color>
+    <color name="customLightGreen">#BAEC85</color>
+    <color name="customLightGreenDarkish">#6ACA6A</color>
+    <color name="customGray">#BDBDBD</color>
+    <color name="customGrayDarkish">#B2B2B3</color>
+    <color name="customDarkGray">#4A4A4A</color>
+    <color name="customDarkGrayDarkish">#404040</color>
+    <color name="customOrange">#FB5E06</color>
+    <color name="customOrangeDarkish">#F45703</color>
+    <color name="customRed">#F93E3E</color>
+
+    <color name="mainColor">@color/customWhite</color>
+    <color name="darkishMainColor">@color/customWhiteDarkish</color>
+    <color name="mainColor2">@color/customLightGreen</color>
+    <color name="darkishMainColor2">@color/customLightGreenDarkish</color>
+    <color name="inverseMainColor">@color/customDarkBlue</color>
+    <color name="inverseDarkishMainColor">@color/customDarkBlueDarkish</color>
+    <color name="textColor1">@color/customDarkGray</color>
+    <color name="darkishTextColor1">@color/customDarkGrayDarkish</color>
+</resources>

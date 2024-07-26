@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShppApplication</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log out</string>
+    <string name="name">Name</string>
+    <string name="career">Career</string>
+    <string name="home_address">Home address</string>
+    <string name="go_to_settings">Go to settings and fill out the profile</string>
+    <string name="view_my_contacts">VIEW MY CONTACTS</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="lets_get_acquainted">Let\'s get acquainted</string>
+    <string name="fill_out_the_profile">Fill out the profile and go to the application!</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">LOGIN</string>
+    <string name="hello">Hello!</string>
+    <string name="enter_your_email">Enter your email and password below</string>
+    <string name="dont_have_account">Don’t have account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="by_clicking_register">By clicking Register you agree to our Terms and Conditions</string>
+    <string name="register">REGISTER</string>
+    <string name="or">or</string>
+    <string name="google" translatable="false">GOOGLE</string>
+</resources>

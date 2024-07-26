@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="buttonGoogle">
+        <item name="android:background">@drawable/button_google_night</item>
+    </style>
+
+    <style name="myProfileView">
+        <item name="android:background">@color/darkishMainColor</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_button_radius">6dp</dimen>
+    <dimen name="default_button_border">2dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="edit_text_height">40dp</dimen>
+    <dimen name="button_height_big">55dp</dimen>
+    <dimen name="button_height_default">40dp</dimen>
+    <dimen name="password_transform_img_width">14dp</dimen>
+    <dimen name="password_transform_img_height">31dp</dimen>
+</resources>

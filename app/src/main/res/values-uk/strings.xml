@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShppApplication</string>
+    <string name="setting">Налаштування</string>
+    <string name="log_out">Вийти</string>
+    <string name="name">Ім\'я</string>
+    <string name="career">Кар\'єра</string>
+    <string name="home_address">Домашня адреса</string>
+    <string name="go_to_settings">Перейти до налаштувань та заповнити профіль</string>
+    <string name="view_my_contacts">ПЕРЕГЛЯНУТИ МОЇ КОНТАКТИ</string>
+    <string name="edit_profile">Редагувати профіль</string>
+    <string name="lets_get_acquainted">Давайте познайомимося</string>
+    <string name="fill_out_the_profile">Заповнюйте анкету та переходьте до додатку!</string>
+    <string name="remember_me">Запам\'ятати мене</string>
+    <string name="forgot_your_password">Забули пароль?</string>
+    <string name="login">УВІЙТИ</string>
+    <string name="hello">Привіт!</string>
+    <string name="enter_your_email">Введіть свою електронну адресу та пароль нижче</string>
+    <string name="dont_have_account">Не маєте облікового запису?</string>
+    <string name="sign_up">Зареєструватися</string>
+    <string name="already_have_account">Вже маєте обліковий запис?</string>
+    <string name="sign_in">Увійти</string>
+    <string name="by_clicking_register">Натискаючи \"Зареєструватися\", ви погоджуєтеся з нашими Умовами та положеннями</string>
+    <string name="register">ЗАРЕЄСТРУВАТИСЯ</string>
+    <string name="or">або</string>
+</resources>
